@@ -6,10 +6,10 @@
 
  */
 class Database {
-private static $dbName = 'facturacion' ;
-    private static $dbHost = 'localhost' ;
-    private static $dbUsername = 'postgres';
-    private static $dbUserPassword = '2020';
+private static $dbName = 'd77cgihhjd5m9p' ;
+    private static $dbHost = 'ec2-54-225-110-156.compute-1.amazonaws.com' ;
+    private static $dbUsername = 'klckygfdfmizoi';
+    private static $dbUserPassword = '35e2c272224b5f63f764c3b4553b1e184dcf5ef002b98c1bd0024c29499dd3b3';
     private static $dbPort = '5432';
 
     private static $conexion  = null;

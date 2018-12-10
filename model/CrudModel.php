@@ -5,7 +5,7 @@ include_once 'Producto.php';
 /**
  * Clase para el manejo CRUD de clientes y productos.
  *
- * @author mrea
+ * @author
  */
 class CrudModel {
     //////////////////////////

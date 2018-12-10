@@ -6,7 +6,7 @@ session_start();
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Facturación - productos</title>
+        <title>SISTEMA DE FACTURACIÓN</title>
         <script src="js/jquery-2.1.4.js"></script>
         <script src="js/bootstrap.js"></script>
         <script src="js/bootstrap-table.js"></script>
@@ -15,7 +15,7 @@ session_start();
     </head>
     <body>
         <div class="container">
-            <img src="images/banner-facturacion.jpg">
+            <img src="images/banner.jpg">
             <div class="row">
                 <h3>Productos</h3>
             </div>
