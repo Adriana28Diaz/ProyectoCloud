@@ -14,10 +14,11 @@ session_start();
     </head>
     <body>
         <div class="container">
-            <img src="banner.jpg">
+            <img src ="images/banner.jpg">
             <div class="row">
                 <h3>Sistema de Facturación</h3>
-            </div>
+            </div
+            
             <div class="row">
                 <a class="btn btn-success" href="../controller/controller.php?opcion=listar_clientes">Clientes</a>
                 <a class="btn btn-success" href="../controller/controller.php?opcion=listar_productos">Productos</a>
